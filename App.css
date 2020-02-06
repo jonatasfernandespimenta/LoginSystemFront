@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+
+* {
+  outline: none;
+  font-family: 'Bebas Neue', Cursive;
+  font-size: 1.3rem;
+  color: white;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #26262B;
+}
+
+#root {
+  height: 100vh;
+  width: 100%;
+}
