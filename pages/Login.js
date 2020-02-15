@@ -6,7 +6,6 @@ import { ToastContainer } from 'react-toastify';
 
 import api from '../api';
 
-// Buguei mt aki, estudar dps
 function Login({ history }) {
 
   const [name, setName] = useState('');
@@ -28,7 +27,6 @@ function Login({ history }) {
       console.log(data);
     });
   }
-// Daqui pra frente não buguei mais
 
   return (
     <Container>
